@@ -1,0 +1,20 @@
+{
+  "homepage": "https://github.com/hermeticbuild/rules_py",
+  "maintainers": [
+    {
+      "name": "Corentin Kerisit",
+      "email": "corentin.kerisit@gmail.com",
+      "github": "cerisier"
+    },
+    {
+      "name": "David Zbarsky",
+      "email": "dzbarsky@gmail.com",
+      "github": "dzbarsky"
+    }
+  ],
+  "repository": [
+    "github:hermeticbuild/rules_py"
+  ],
+  "versions": [],
+  "yanked_versions": {}
+}
